@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!--
+
 **iampiyushsharma/iampiyushsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://twitter.com/1_piyushs  https://www.linkedin.com/in/piyush-sharma-767137203/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I code in the rain to hide my tears, call me Indra Dev
--->
+
