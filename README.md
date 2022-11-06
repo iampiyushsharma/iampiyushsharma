@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **2002piyush6@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFRJ8TnjEg/b3f2rn63J7Y4Lh8FSPl7jw/view?utm_content=DAFRJ8TnjEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFRJ8TnjEg/b3f2rn63J7Y4Lh8FSPl7jw/view?utm_content=DAFRJ8TnjEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFRJ8TnjEg/b3f2rn63J7Y4Lh8FSPl7jw/view?utm_content=DAFRJ8TnjEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **Days on Venus are longer than years**
 
