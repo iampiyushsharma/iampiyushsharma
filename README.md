@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **2002piyush6@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFFk-IFt9U/P83g3KZMDJqCkjXqbtJqiA/view?utm_content=DAFFk-IFt9U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFFk-IFt9U/P83g3KZMDJqCkjXqbtJqiA/view?utm_content=DAFFk-IFt9U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [https://www.canva.com/design/DAFRJ8TnjEg/b3f2rn63J7Y4Lh8FSPl7jw/view?utm_content=DAFRJ8TnjEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFRJ8TnjEg/b3f2rn63J7Y4Lh8FSPl7jw/view?utm_content=DAFRJ8TnjEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **I code in the rain to hide my tears, call me Indra Dev**
 
