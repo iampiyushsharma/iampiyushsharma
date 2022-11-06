@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampiyushsharma&label=Profile%20views&color=0e75b6&style=flat" alt="iampiyushsharma" /> </p>
 
-- 🔭 I’m currently working on **Disney+ clone**
+- 🔭 I’m currently working on **Crowdfunding using blockchain**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **web3**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFRJ8TnjEg/b3f2rn63J7Y4Lh8FSPl7jw/view?utm_content=DAFRJ8TnjEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFRJ8TnjEg/b3f2rn63J7Y4Lh8FSPl7jw/view?utm_content=DAFRJ8TnjEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- ⚡ Fun fact **I code in the rain to hide my tears, call me Indra Dev**
+- ⚡ Fun fact **Days on Venus are longer than years**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
