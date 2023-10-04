@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampiyushsharma&label=Profile%20views&color=0e75b6&style=flat" alt="iampiyushsharma" /> </p>
 
-- 🔭 I’m currently working on **Crowdfunding Project**
+- 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **web3**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **2002piyush6@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1T4CxjZHZhmNGEbmzQdEYg2Hnss0RIeoP/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_NvCFTxLswfJXpl0RbXID92EFxWf9GT0/view?usp=sharing)
 
 - ⚡ Fun fact **Days on Venus are longer than years**
 
