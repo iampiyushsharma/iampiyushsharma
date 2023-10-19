@@ -12,13 +12,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iampiyushsharma?tab=repositories](https://github.com/iampiyushsharma?tab=repositories)
 
-- 📝 I regularly writes on [Twitter](Twitter)
+- 📝 I regularly writes on [X](Twitter)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **2002piyush6@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_NvCFTxLswfJXpl0RbXID92EFxWf9GT0/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wJ9IGrkhtqW0POYVxPoN8cpswSmiTIjN/view?usp=sharing)
 
 - ⚡ Fun fact **Days on Venus are longer than years**
 
