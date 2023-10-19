@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **2002piyush6@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wJ9IGrkhtqW0POYVxPoN8cpswSmiTIjN/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EkgrSLVtg9nGS7S925m523msqWP-4xqf/view?usp=share_link)
 
 - ⚡ Fun fact **Days on Venus are longer than years**
 
