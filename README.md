@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://dev.to/iampiyushsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="iampiyushsharma" height="30" width="40" /></a>
 <a href="https://twitter.com/1_piyushs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1_piyushs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/piyush-sharma-767137203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-sharma-767137203/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iampiyushsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-sharma-767137203/" height="30" width="40" /></a>
 <a href="https://instagram.com/piyush.s1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyush.s1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/piyushs1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyushs1" height="30" width="40" /></a>
 </p>
