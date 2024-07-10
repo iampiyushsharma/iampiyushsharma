@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iampiyushsharma?tab=repositories](https://github.com/iampiyushsharma?tab=repositories)
 
-- 📝 I regularly writes on [X](https://x.com/haankyaaa))
+- 📝 I regularly writes on [X](https://x.com/haankyaaa)
 
 - 💬 Ask me about **Dev**
 
