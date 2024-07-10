@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **2002piyush6@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1EkgrSLVtg9nGS7S925m523msqWP-4xqf/view?usp=share_link](https://drive.google.com/file/d/1wABM5YrV2v4-VR7u4cKiBFGjBzLjZrZD/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wABM5YrV2v4-VR7u4cKiBFGjBzLjZrZD/view?usp=sharing)
 
 - ⚡ Fun fact **The pattern on every person's tongue is an unique as a fingerprint**
 
