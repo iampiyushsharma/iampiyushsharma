@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Backend Development Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/iampiyushsharma?tab=repositories](https://github.com/iampiyushsharma?tab=repositories)
+- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/iampiyushsharma?tab=repositories)
 
 - 📝 I regularly writes on [X](https://x.com/haankyaaa)
 
@@ -18,9 +18,9 @@
 
 - 📫 How to reach me **2002piyush6@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EkgrSLVtg9nGS7S925m523msqWP-4xqf/view?usp=share_link)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1EkgrSLVtg9nGS7S925m523msqWP-4xqf/view?usp=share_link](https://drive.google.com/file/d/1wABM5YrV2v4-VR7u4cKiBFGjBzLjZrZD/view?usp=sharing))
 
-- ⚡ Fun fact **Days on Venus are longer than years**
+- ⚡ Fun fact **The pattern on every person's tongue is an unique as a fingerprint**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
