@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Piyush Sharma</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampiyushsharma&label=Profile%20views&color=0e75b6&style=flat" alt="iampiyushsharma" /> </p>
 
 - 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **GO**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Backend Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iampiyushsharma?tab=repositories](https://github.com/iampiyushsharma?tab=repositories)
 
-- 📝 I regularly writes on [X](Twitter)
+- 📝 I regularly writes on [X](https://x.com/haankyaaa))
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Dev**
 
 - 📫 How to reach me **2002piyush6@gmail.com**
 
