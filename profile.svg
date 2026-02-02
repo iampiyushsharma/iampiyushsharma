@@ -6,7 +6,7 @@
 
   <!-- Card -->
   <rect x="50" y="40"
-        width="1000" height="440"
+        width="1000" height="400"
         fill="#0d1117"
         stroke="#30363d"
         stroke-width="2"/>
@@ -17,14 +17,14 @@
         font-size="28"
         fill="#58a6ff"
         font-weight="bold">
-    piyush@github
+    Piyush Sharma
   </text>
 
   <text x="90" y="120"
         font-family="monospace"
         font-size="16"
         fill="#8b949e">
-    Full-Stack Developer • Backend-Focused
+    SDE • Backend-Focused
   </text>
 
   <!-- Divider -->
@@ -47,55 +47,62 @@
   </text>
 
   <text x="90" y="250" font-family="monospace" font-size="16" fill="#c9d1d9">
-    ├─ Learning :
+    ├─ Working With :
   </text>
   <text x="250" y="250" font-family="monospace" font-size="16" fill="#58a6ff">
-    Go
+    Go • Python • Javascript • Postgrace
   </text>
 
   <text x="90" y="280" font-family="monospace" font-size="16" fill="#c9d1d9">
     └─ Focus    :
   </text>
   <text x="250" y="280" font-family="monospace" font-size="16" fill="#8b949e">
-    Backend, APIs, Systems
+    Backend, APIs, Systems architecture
   </text>
 
   <!-- Right Column -->
   <text x="600" y="190" font-family="monospace" font-size="16" fill="#c9d1d9">
-    ├─ Languages I Like
+    ├─ Open to :
   </text>
-  <text x="620" y="215" font-family="monospace" font-size="15" fill="#8b949e">
-    Go • Java • JavaScript • TypeScript
-  </text>
-
-  <text x="600" y="255" font-family="monospace" font-size="16" fill="#c9d1d9">
-    ├─ Currently Working With
-  </text>
-  <text x="620" y="280" font-family="monospace" font-size="15" fill="#8b949e">
-    Go • Node.js • PostgreSQL • MongoDB
+  <text x="780" y="190" font-family="monospace" font-size="15" fill="#8b949e">
+    Backend Engineer Roles
   </text>
 
-  <text x="600" y="320" font-family="monospace" font-size="16" fill="#c9d1d9">
-    └─ Tools
+  <text x="600" y="220" font-family="monospace" font-size="16" fill="#c9d1d9">
+    ├─ Availability :
   </text>
-  <text x="620" y="345" font-family="monospace" font-size="15" fill="#8b949e">
-    Git • Linux • Postman • Docker
+  <text x="780" y="220" font-family="monospace" font-size="15" fill="#8b949e">
+    Full-time
+  </text>
+
+  <text x="600" y="250" font-family="monospace" font-size="16" fill="#c9d1d9">
+    ├─ Freelance :
+  </text>
+  <text x="780" y="250" font-family="monospace" font-size="15" fill="#8b949e">
+    Weekends
+  </text>
+
+  <text x="600" y="280" font-family="monospace" font-size="16" fill="#c9d1d9">
+    └─ Philosophy  :
+  </text>
+  <text x="780" y="280" font-family="monospace" font-size="15" fill="#8b949e">
+    Simple. Fast. Reliable.
   </text>
 
   <!-- Footer Divider -->
-  <line x1="90" y1="375" x2="1010" y2="375"
+  <line x1="90" y1="320" x2="1010" y2="320"
         stroke="#30363d" stroke-width="1"/>
 
   <!-- Footer -->
-  <text x="90" y="405" font-family="monospace" font-size="15" fill="#c9d1d9">
+  <text x="90" y="350" font-family="monospace" font-size="15" fill="#c9d1d9">
     └─ Contact :
   </text>
-  <text x="250" y="405" font-family="monospace" font-size="15" fill="#8b949e">
+  <text x="250" y="350" font-family="monospace" font-size="15" fill="#8b949e">
     2002piyush6@gmail.com
   </text>
 
-  <text x="90" y="435" font-family="monospace" font-size="14" fill="#6e7681">
-    GitHub: iampiyushsharma  •  LinkedIn: /iampiyushsharma
+  <text x="90" y="370" font-family="monospace" font-size="14" fill="#6e7681">
+    Github(Odoo): pish-odoo • LinkedIn: iampiyushsharma • Instagram: @piyush.s1
   </text>
 
 </svg>
