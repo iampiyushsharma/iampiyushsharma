@@ -1,0 +1,114 @@
+<svg width="1100" height="520" viewBox="0 0 1100 520"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="20" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1100" height="520" fill="#0d1117"/>
+
+  <!-- Card -->
+  <rect x="50" y="40" rx="18" ry="18"
+        width="1000" height="440"
+        fill="url(#bgGrad)"
+        stroke="#21262d"
+        filter="url(#glow)"/>
+
+  <!-- Header -->
+  <text x="90" y="100"
+        font-family="monospace"
+        font-size="28"
+        fill="#58a6ff"
+        font-weight="bold">
+    piyush@github
+  </text>
+
+  <text x="90" y="130"
+        font-family="monospace"
+        font-size="16"
+        fill="#8b949e">
+    Full-Stack Developer • Backend-Focused
+  </text>
+
+  <!-- Divider -->
+  <line x1="90" y1="160" x2="1010" y2="160"
+        stroke="#21262d" stroke-width="1"/>
+
+  <!-- Left Column -->
+  <text x="90" y="210" font-family="monospace" font-size="16" fill="#c9d1d9">
+    ├─ Company  :
+  </text>
+  <text x="250" y="210" font-family="monospace" font-size="16" fill="#8b949e">
+    Odoo
+  </text>
+
+  <text x="90" y="240" font-family="monospace" font-size="16" fill="#c9d1d9">
+    ├─ Role     :
+  </text>
+  <text x="250" y="240" font-family="monospace" font-size="16" fill="#8b949e">
+    Software Developer
+  </text>
+
+  <text x="90" y="270" font-family="monospace" font-size="16" fill="#c9d1d9">
+    ├─ Learning :
+  </text>
+  <text x="250" y="270" font-family="monospace" font-size="16" fill="#58a6ff">
+    Go
+  </text>
+
+  <text x="90" y="300" font-family="monospace" font-size="16" fill="#c9d1d9">
+    └─ Focus    :
+  </text>
+  <text x="250" y="300" font-family="monospace" font-size="16" fill="#8b949e">
+    Backend, APIs, Systems
+  </text>
+
+  <!-- Right Column -->
+  <text x="600" y="210" font-family="monospace" font-size="16" fill="#c9d1d9">
+    ├─ Languages I Like
+  </text>
+  <text x="620" y="235" font-family="monospace" font-size="15" fill="#8b949e">
+    Go • Java • JavaScript • TypeScript
+  </text>
+
+  <text x="600" y="275" font-family="monospace" font-size="16" fill="#c9d1d9">
+    ├─ Currently Working With
+  </text>
+  <text x="620" y="300" font-family="monospace" font-size="15" fill="#8b949e">
+    Go • Node.js • PostgreSQL • MongoDB
+  </text>
+
+  <text x="600" y="340" font-family="monospace" font-size="16" fill="#c9d1d9">
+    └─ Tools
+  </text>
+  <text x="620" y="365" font-family="monospace" font-size="15" fill="#8b949e">
+    Git • Linux • Postman • Docker
+  </text>
+
+  <!-- Footer -->
+  <line x1="90" y1="395" x2="1010" y2="395"
+        stroke="#21262d" stroke-width="1"/>
+
+  <text x="90" y="425" font-family="monospace" font-size="15" fill="#c9d1d9">
+    └─ Contact :
+  </text>
+  <text x="250" y="425" font-family="monospace" font-size="15" fill="#8b949e">
+    2002piyush6@gmail.com
+  </text>
+
+  <text x="90" y="450" font-family="monospace" font-size="14" fill="#6e7681">
+    GitHub: iampiyushsharma  •  LinkedIn: /iampiyushsharma
+  </text>
+
+</svg>
