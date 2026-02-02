@@ -1,12 +1,12 @@
-<svg width="1100" height="520" viewBox="0 0 1100 520"
+<svg width="1100" height="470" viewBox="0 0 1100 470"
      xmlns="http://www.w3.org/2000/svg">
 
   <!-- Page Background -->
-  <rect width="1100" height="520" fill="#0d1117"/>
+  <rect width="1100" height="470" fill="#0d1117"/>
 
   <!-- Card -->
   <rect x="50" y="40"
-        width="1000" height="400"
+        width="1000" height="360"
         fill="#0d1117"
         stroke="#30363d"
         stroke-width="2"/>
